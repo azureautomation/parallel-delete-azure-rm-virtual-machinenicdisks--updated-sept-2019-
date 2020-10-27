@@ -1,0 +1,20 @@
+{
+    "Author": "Ben Wilkinson",
+    "ContentSize": 6021,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/parallel-delete-azure-rm-virtual-machinenicdisks-(updated-sept-2019)/master/Remove-AzureRMVMInstanceParallel.ps1",
+    "DownloadCount": 1153,
+    "Id": "Parallel-Delete-Azure-RM-84dadec9",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 133,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2017-11-24T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Parallel Delete Virtual Machines in AzureThis script will delete an Azure Resource manager Virtual Machine.It will also delete the associated Network Interface Card (NIC).It will also remote both STANDARD and MANAGED Disks.Including both the OS Disk and the DATA Disks",
+    "Title": "Parallel Delete Azure RM Virtual Machine-NIC-Disks (Updated Sept 2019)",
+    "UpdatedDate": "2019-9-20T00:00:00",
+    "Url": "https://github.com/azureautomation/parallel-delete-azure-rm-virtual-machinenicdisks-(updated-sept-2019)",
+    "UserTags": "VM, Virtual Machine, Parallel"
+}
